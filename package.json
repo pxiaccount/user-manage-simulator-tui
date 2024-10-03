@@ -1,0 +1,17 @@
+{
+  "name": "user-manage-simulator-tui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^22.7.4"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.2"
+  }
+}
